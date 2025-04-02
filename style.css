@@ -40,4 +40,13 @@ html, body {
 }
 .button, .input{
     box-shadow: 4px 4px 8px 8px black;
+    font-weight: 600;
+}
+.delete{
+  color: red;
+  font-weight: 900;
+}
+.operation{
+  color: blue;
+  font-weight: 900;
 }
