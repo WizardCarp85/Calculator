@@ -1,0 +1,22 @@
+.text-center{
+    text-align: center;
+    color: aqua;
+    font-size: 4em;
+    margin: 80px 40px;
+    text-shadow: 2px 2px 8px 8px rgb(0, 0, 0);
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
